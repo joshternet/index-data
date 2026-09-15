@@ -1,0 +1,20 @@
+{
+  "format_version": 1,
+  "nodes": [
+    {
+      "origin": "https://joshternet.org",
+      "path": "nodes/fd/fd528f9955dc5fe4fc96345ae2d3023d3a05fa1cfa166efa85de9a48aa5853b7.json",
+      "declaration": {
+        "version": 1
+      }
+    },
+    {
+      "origin": "https://joshuamorris.info",
+      "path": "nodes/96/96e5b600de4a31e77df2925d7e56dc12bc14ffd484452ca9b51ed4aa37813705.json",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    }
+  ]
+}
