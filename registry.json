@@ -9,6 +9,14 @@
       }
     },
     {
+      "origin": "https://joshtronic.com",
+      "path": "nodes/6a/6abb562aec683d614e720c718f9c4f7d9622bddd0b2256673c4df3cfd6bb8422.json",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshuamorris.info",
       "path": "nodes/96/96e5b600de4a31e77df2925d7e56dc12bc14ffd484452ca9b51ed4aa37813705.json",
       "declaration": {
