@@ -23,6 +23,14 @@
         "version": 1,
         "josh": true
       }
+    },
+    {
+      "origin": "https://www.joshuabaker.com",
+      "path": "nodes/53/53e58c5d262ba5eaab5bc4fb3fb25f42ab8ad5f60411edac5ad57a3394ef7675.json",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
     }
   ]
 }
