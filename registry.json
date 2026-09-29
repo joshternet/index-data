@@ -4,6 +4,12 @@
     {
       "origin": "https://joshternet.org",
       "path": "nodes/fd/fd528f9955dc5fe4fc96345ae2d3023d3a05fa1cfa166efa85de9a48aa5853b7.json",
+      "first_participated_at": "2026-09-06T22:52:08.890744Z",
+      "initial_declaration": {
+        "version": 1
+      },
+      "latest_declaration_check_at": "2026-09-26T17:32:30.629994Z",
+      "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1
       }
@@ -11,6 +17,13 @@
     {
       "origin": "https://joshtronic.com",
       "path": "nodes/6a/6abb562aec683d614e720c718f9c4f7d9622bddd0b2256673c4df3cfd6bb8422.json",
+      "first_participated_at": "2026-09-25T08:52:07.833928Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-09-26T13:12:26.173449Z",
+      "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
         "josh": true
@@ -19,6 +32,13 @@
     {
       "origin": "https://joshuamorris.info",
       "path": "nodes/96/96e5b600de4a31e77df2925d7e56dc12bc14ffd484452ca9b51ed4aa37813705.json",
+      "first_participated_at": "2026-09-06T22:51:38.044013Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-09-26T17:32:32.034608Z",
+      "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
         "josh": true
@@ -27,6 +47,13 @@
     {
       "origin": "https://www.joshuabaker.com",
       "path": "nodes/53/53e58c5d262ba5eaab5bc4fb3fb25f42ab8ad5f60411edac5ad57a3394ef7675.json",
+      "first_participated_at": "2026-09-26T02:04:46.048455Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-09-27T10:42:56.194592Z",
+      "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
         "josh": true
