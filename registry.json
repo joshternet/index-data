@@ -2,6 +2,21 @@
   "format_version": 1,
   "nodes": [
     {
+      "origin": "https://joshghent.com",
+      "path": "nodes/f0/f0abe92ad3e05620868724a92a7052bdb501a9cb29fd3ae0f3ae2d3d1790b617.json",
+      "first_participated_at": "2026-10-04T14:16:33.245656Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-10-04T14:16:33.245656Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshternet.org",
       "path": "nodes/fd/fd528f9955dc5fe4fc96345ae2d3023d3a05fa1cfa166efa85de9a48aa5853b7.json",
       "first_participated_at": "2026-09-06T22:52:08.890744Z",

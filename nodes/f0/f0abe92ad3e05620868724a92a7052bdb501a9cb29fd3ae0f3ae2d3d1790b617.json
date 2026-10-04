@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "origin": "https://joshghent.com",
+  "first_participated_at": "2026-10-04T14:16:33.245656Z",
+  "initial_declaration": {
+    "version": 1,
+    "josh": true
+  },
+  "latest_declaration_check_at": "2026-10-04T14:16:33.245656Z",
+  "latest_declaration_check_outcome": "valid",
+  "declaration": {
+    "version": 1,
+    "josh": true
+  }
+}
