@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "origin": "https://joshmuller.ca",
+  "first_participated_at": "2026-10-12T18:37:30.47824Z",
+  "initial_declaration": {
+    "version": 1,
+    "josh": true
+  },
+  "latest_declaration_check_at": "2026-10-12T18:37:30.47824Z",
+  "latest_declaration_check_outcome": "valid",
+  "declaration": {
+    "version": 1,
+    "josh": true
+  }
+}
