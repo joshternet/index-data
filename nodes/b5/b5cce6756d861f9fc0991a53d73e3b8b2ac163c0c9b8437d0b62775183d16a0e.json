@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "origin": "https://joshua.seigler.net",
+  "first_participated_at": "2026-10-30T08:30:24.258572Z",
+  "initial_declaration": {
+    "version": 1,
+    "josh": true
+  },
+  "latest_declaration_check_at": "2026-10-30T08:30:24.258572Z",
+  "latest_declaration_check_outcome": "valid",
+  "declaration": {
+    "version": 1,
+    "josh": true
+  }
+}

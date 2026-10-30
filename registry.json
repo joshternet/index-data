@@ -60,6 +60,21 @@
       }
     },
     {
+      "origin": "https://joshua.seigler.net",
+      "path": "nodes/b5/b5cce6756d861f9fc0991a53d73e3b8b2ac163c0c9b8437d0b62775183d16a0e.json",
+      "first_participated_at": "2026-10-30T08:30:24.258572Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-10-30T08:30:24.258572Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshuamorris.info",
       "path": "nodes/96/96e5b600de4a31e77df2925d7e56dc12bc14ffd484452ca9b51ed4aa37813705.json",
       "first_participated_at": "2026-09-06T22:51:38.044013Z",
