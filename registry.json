@@ -2,6 +2,21 @@
   "format_version": 1,
   "nodes": [
     {
+      "origin": "https://joshbeard.com",
+      "path": "nodes/32/32329a5a589fff27123fbf19a511be9f20729cfa9252f0f4b76d107bd396a059.json",
+      "first_participated_at": "2026-10-30T20:06:00.676433Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-10-30T20:06:00.676433Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshghent.com",
       "path": "nodes/f0/f0abe92ad3e05620868724a92a7052bdb501a9cb29fd3ae0f3ae2d3d1790b617.json",
       "first_participated_at": "2026-10-04T14:16:33.245656Z",
