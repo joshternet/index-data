@@ -105,6 +105,21 @@
       }
     },
     {
+      "origin": "https://joshuadrake.org",
+      "path": "nodes/bc/bc7c017ece5fa409b28d0a4baef2b9ab2a8e767ad05d8daaeec1cb3b377f624b.json",
+      "first_participated_at": "2026-11-01T20:14:11.484485Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-01T20:14:11.484485Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshuakim.studio",
       "path": "nodes/f0/f0b383ffd12ac254f8248a6cd7ccafd81c8d5b9e3f3b512077e5f1e267cbc454.json",
       "first_participated_at": "2026-11-01T09:42:06.052903Z",
