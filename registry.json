@@ -135,6 +135,21 @@
       }
     },
     {
+      "origin": "https://joshuapsteele.com",
+      "path": "nodes/26/26131d762eec35bfd4b0000a836a7f737812ed2f80f2cbe27dbb1ca920989942.json",
+      "first_participated_at": "2026-11-01T19:50:42.787205Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-01T19:50:42.787205Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://www.joshcanhelp.com",
       "path": "nodes/9f/9f904654157603708b2097ba63cad21da97f688b44fbb02544b11850af4a3608.json",
       "first_participated_at": "2026-09-30T23:10:31.341572Z",
@@ -157,7 +172,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-01T06:37:25.897684Z",
+      "latest_declaration_check_at": "2026-11-01T19:50:52.891375Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
