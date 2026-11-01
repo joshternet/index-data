@@ -32,6 +32,21 @@
       }
     },
     {
+      "origin": "https://joshgr.com",
+      "path": "nodes/b9/b94ebc2655942cdb8804748814f43ae1c7ce9ea4875248a9afc4d4681ef42fc6.json",
+      "first_participated_at": "2026-11-01T18:38:04.414983Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-01T18:38:04.414983Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshmuller.ca",
       "path": "nodes/10/109045b15bd95901ad279f4aaa398ce4bd73d622e4d5f75db2bcad8f94d2b1e5.json",
       "first_participated_at": "2026-10-12T18:37:30.47824Z",
