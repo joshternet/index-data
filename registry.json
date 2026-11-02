@@ -2,6 +2,21 @@
   "format_version": 1,
   "nodes": [
     {
+      "origin": "https://artlung.com",
+      "path": "nodes/50/50827dbb596ff06510d6db2f53476ebc5c82c97108ffdc25e42230daea31a1d5.json",
+      "first_participated_at": "2026-11-02T15:42:11.854207Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": false
+      },
+      "latest_declaration_check_at": "2026-11-02T15:42:11.854207Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": false
+      }
+    },
+    {
       "origin": "https://forwardbias.dev",
       "path": "nodes/3d/3d4308b94d6648755d20755b394c2c6dca25feaf8d75f3823b0509fa27b378ab.json",
       "first_participated_at": "2026-11-02T03:57:16.192677Z",
@@ -25,6 +40,21 @@
         "josh": true
       },
       "latest_declaration_check_at": "2026-11-02T05:41:43.958958Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
+      "origin": "https://joshcox.co.uk",
+      "path": "nodes/84/84f13187dea6b70821e3eeb6c3281d2104329052a22be508c13004864eed2a96.json",
+      "first_participated_at": "2026-11-02T15:03:18.018094Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-02T15:03:18.018094Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
