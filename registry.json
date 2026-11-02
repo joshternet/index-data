@@ -2,6 +2,21 @@
   "format_version": 1,
   "nodes": [
     {
+      "origin": "https://forwardbias.dev",
+      "path": "nodes/3d/3d4308b94d6648755d20755b394c2c6dca25feaf8d75f3823b0509fa27b378ab.json",
+      "first_participated_at": "2026-11-02T03:57:16.192677Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-02T03:57:16.192677Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshbeard.com",
       "path": "nodes/32/32329a5a589fff27123fbf19a511be9f20729cfa9252f0f4b76d107bd396a059.json",
       "first_participated_at": "2026-10-30T20:06:00.676433Z",
