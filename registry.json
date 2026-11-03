@@ -92,6 +92,21 @@
       }
     },
     {
+      "origin": "https://joshkoter.com",
+      "path": "nodes/79/795b093fcbe3a613d637aa00ab8c3d1a42f1f010b4c65debbeaae97a1342d7ac.json",
+      "first_participated_at": "2026-11-03T22:15:26.01696Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-03T22:15:26.01696Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshmuller.ca",
       "path": "nodes/10/109045b15bd95901ad279f4aaa398ce4bd73d622e4d5f75db2bcad8f94d2b1e5.json",
       "first_participated_at": "2026-10-12T18:37:30.47824Z",
