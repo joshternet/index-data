@@ -54,7 +54,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-02T15:03:18.018094Z",
+      "latest_declaration_check_at": "2026-11-03T15:11:50.960773Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -218,6 +218,21 @@
         "josh": true
       },
       "latest_declaration_check_at": "2026-11-02T19:53:04.819296Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
+      "origin": "https://joshuastuebner.com",
+      "path": "nodes/40/40d4dbf71702173d839bcb74e31c66f0be9278321de99e0fe9c0de23a76d3c36.json",
+      "first_participated_at": "2026-11-03T14:46:46.65336Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-03T14:46:46.65336Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
