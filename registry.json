@@ -255,6 +255,21 @@
       }
     },
     {
+      "origin": "https://joshurbandavis.com",
+      "path": "nodes/03/0384281332e29e78f549bef4db33ae3b083bb6e09f1e03afdb4d91a8f0099146.json",
+      "first_participated_at": "2026-11-04T12:42:51.238694Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-04T12:42:51.238694Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://www.chrisminnick.com",
       "path": "nodes/fa/fa5d426157468366827f81f1d611385dbe9a8e863242c10882cbb7ed7552f1f2.json",
       "first_participated_at": "2026-11-02T19:18:57.470121Z",

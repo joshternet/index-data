@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "origin": "https://joshurbandavis.com",
+  "first_participated_at": "2026-11-04T12:42:51.238694Z",
+  "initial_declaration": {
+    "version": 1,
+    "josh": true
+  },
+  "latest_declaration_check_at": "2026-11-04T12:42:51.238694Z",
+  "latest_declaration_check_outcome": "valid",
+  "declaration": {
+    "version": 1,
+    "josh": true
+  }
+}
