@@ -9,7 +9,7 @@
         "version": 1,
         "josh": false
       },
-      "latest_declaration_check_at": "2026-11-04T15:45:12.127651Z",
+      "latest_declaration_check_at": "2026-11-05T15:45:14.653319Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -338,6 +338,21 @@
         "josh": true
       },
       "latest_declaration_check_at": "2026-11-04T20:00:14.607485Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
+      "origin": "https://www.joshuakgoldberg.com",
+      "path": "nodes/32/320ddea56b606b5aab047019ce0b90c42970f40ebc103b88419a956b6b8b083d.json",
+      "first_participated_at": "2026-11-05T16:17:11.29413Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-05T16:17:11.29413Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
