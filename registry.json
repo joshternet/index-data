@@ -32,6 +32,21 @@
       }
     },
     {
+      "origin": "https://josh.earth",
+      "path": "nodes/e6/e6092439a7da26364be6e7475058d08fbdacdebdc3b8ba5da7616a249897aa91.json",
+      "first_participated_at": "2026-11-08T21:31:46.597119Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-08T21:31:46.597119Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshbeard.com",
       "path": "nodes/32/32329a5a589fff27123fbf19a511be9f20729cfa9252f0f4b76d107bd396a059.json",
       "first_participated_at": "2026-10-30T20:06:00.676433Z",

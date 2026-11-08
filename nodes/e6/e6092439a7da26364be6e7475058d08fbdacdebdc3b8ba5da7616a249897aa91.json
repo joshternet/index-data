@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "origin": "https://josh.earth",
+  "first_participated_at": "2026-11-08T21:31:46.597119Z",
+  "initial_declaration": {
+    "version": 1,
+    "josh": true
+  },
+  "latest_declaration_check_at": "2026-11-08T21:31:46.597119Z",
+  "latest_declaration_check_outcome": "valid",
+  "declaration": {
+    "version": 1,
+    "josh": true
+  }
+}
