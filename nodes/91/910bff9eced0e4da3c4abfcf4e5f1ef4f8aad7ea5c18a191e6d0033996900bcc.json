@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "origin": "https://www.galina.to",
+  "first_participated_at": "2026-11-08T21:52:51.141992Z",
+  "initial_declaration": {
+    "version": 1,
+    "josh": true
+  },
+  "latest_declaration_check_at": "2026-11-08T21:52:51.141992Z",
+  "latest_declaration_check_outcome": "valid",
+  "declaration": {
+    "version": 1,
+    "josh": true
+  }
+}
