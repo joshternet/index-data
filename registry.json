@@ -122,6 +122,21 @@
       }
     },
     {
+      "origin": "https://joshleeb.com",
+      "path": "nodes/06/064bf1a77c5bc07add55adf6bc8f02423c1aa2c9006894bd70f88c1df65f6fa5.json",
+      "first_participated_at": "2026-11-09T21:11:22.565369Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-09T21:11:22.565369Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
       "origin": "https://joshmuller.ca",
       "path": "nodes/10/109045b15bd95901ad279f4aaa398ce4bd73d622e4d5f75db2bcad8f94d2b1e5.json",
       "first_participated_at": "2026-10-12T18:37:30.47824Z",
