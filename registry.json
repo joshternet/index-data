@@ -129,7 +129,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-11T22:02:11.465284Z",
+      "latest_declaration_check_at": "2026-11-12T01:53:25.0708Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -323,6 +323,51 @@
         "josh": true
       },
       "latest_declaration_check_at": "2026-11-11T22:00:22.884082Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
+      "origin": "https://joshwithers.au",
+      "path": "nodes/1d/1dda01bdc1c25682ae4e70ceff67461d0ece0a54da9f4c7a7b6faa213f3978c7.json",
+      "first_participated_at": "2026-11-12T01:53:13.061998Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-12T01:53:13.061998Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
+      "origin": "https://joshwithers.blog",
+      "path": "nodes/a6/a68b9e62f81111ba0d50c00c8f3c6f1315ef862afb00d2c7ba86f904cad4e607.json",
+      "first_participated_at": "2026-11-12T01:53:08.886051Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-12T01:53:08.886051Z",
+      "latest_declaration_check_outcome": "valid",
+      "declaration": {
+        "version": 1,
+        "josh": true
+      }
+    },
+    {
+      "origin": "https://marriedbyjosh.com",
+      "path": "nodes/b1/b16965ed5021990cc80046c81da07f249be923bd8b7ce5c9cc8ee4cfd9479864.json",
+      "first_participated_at": "2026-11-12T01:52:47.097304Z",
+      "initial_declaration": {
+        "version": 1,
+        "josh": true
+      },
+      "latest_declaration_check_at": "2026-11-12T01:52:47.097304Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,

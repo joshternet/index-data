@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "origin": "https://joshwithers.au",
+  "first_participated_at": "2026-11-12T01:53:13.061998Z",
+  "initial_declaration": {
+    "version": 1,
+    "josh": true
+  },
+  "latest_declaration_check_at": "2026-11-12T01:53:13.061998Z",
+  "latest_declaration_check_outcome": "valid",
+  "declaration": {
+    "version": 1,
+    "josh": true
+  }
+}
