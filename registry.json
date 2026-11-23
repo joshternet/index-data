@@ -9,7 +9,7 @@
         "version": 1,
         "josh": false
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:33.391629Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:36.551884Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -69,7 +69,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:24.658429Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:28.475974Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -84,7 +84,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:02:24.042045Z",
+      "latest_declaration_check_at": "2026-11-23T22:02:29.520815Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -99,7 +99,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:25.464292Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:29.004037Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -114,7 +114,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:02:20.373084Z",
+      "latest_declaration_check_at": "2026-11-23T22:02:29.594012Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -159,7 +159,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:06.03716Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:08.467146Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -189,7 +189,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:00:57.865047Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:01.433209Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -218,8 +218,8 @@
       "initial_declaration": {
         "version": 1
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:30.154885Z",
-      "latest_declaration_check_outcome": "valid",
+      "latest_declaration_check_at": "2026-11-23T22:01:35.058916Z",
+      "latest_declaration_check_outcome": "unavailable",
       "declaration": {
         "version": 1
       }
@@ -232,7 +232,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:23.585701Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:26.394807Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -247,7 +247,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:39.266503Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:41.42874Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -277,7 +277,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:25.256545Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:28.021344Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -307,7 +307,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:49.025486Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:51.43235Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -322,7 +322,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:38.675574Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:41.970801Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -382,7 +382,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:02:51.204519Z",
+      "latest_declaration_check_at": "2026-11-23T22:02:57.578831Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -412,7 +412,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:02:53.025909Z",
+      "latest_declaration_check_at": "2026-11-23T22:03:00.817097Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -427,7 +427,7 @@
         "version": 1,
         "josh": false
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:33.571803Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:37.039384Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -472,7 +472,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:30.738088Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:34.552881Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -487,7 +487,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:35.871754Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:38.36755Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -502,7 +502,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:41.833357Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:47.271726Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
@@ -532,7 +532,7 @@
         "version": 1,
         "josh": true
       },
-      "latest_declaration_check_at": "2026-11-22T22:01:35.543465Z",
+      "latest_declaration_check_at": "2026-11-23T22:01:37.836174Z",
       "latest_declaration_check_outcome": "valid",
       "declaration": {
         "version": 1,
